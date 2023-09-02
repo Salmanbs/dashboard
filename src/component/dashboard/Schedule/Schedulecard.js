@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import style from "./Schedulecard.module.css";
+import style from "./schedulecard.module.css";
 import { downarrow, leftarrow, whatsapp } from "src/Assets/commonsvg.js";
 function Schedulecard() {
   const datas = [
