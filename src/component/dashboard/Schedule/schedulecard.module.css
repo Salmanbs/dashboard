@@ -1,0 +1,58 @@
+.chartmainDiv{
+    background: #FFFFFF;
+    border-radius: 20px;
+    min-height: 30vh;
+    padding: 40px;
+    margin: 10px 0px;
+    width: 100%;
+}
+
+.topsecDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topsecDiv b{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+    
+.topsecDiv span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #858585;
+}
+
+.schedulesDiv{
+    display: flex;
+    flex-direction: column;
+}
+
+.schedulesDiv .card{
+    padding: 15px;
+    width: 100%;
+    margin: 15px 0px 0px 0px;
+}
+
+.schedulesDiv .card span{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #666666;
+    margin-bottom: 15px;
+ }
+
+.schedulesDiv .card small{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #999999;
+}

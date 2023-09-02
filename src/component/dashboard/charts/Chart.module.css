@@ -1,0 +1,151 @@
+.chartmainDiv{
+    background: #FFFFFF;
+    border-radius: 20px;
+    min-height: 25vh;
+    padding: 40px;
+    margin: 40px 0px;
+}
+
+.Charttopsec{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chartdatatypes{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.rightsideDiv b{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.rightsideDiv span{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #858585;
+    margin-top: 12px;
+}
+
+.chartdatatypes div{
+   display: flex;
+   align-items: center;
+   gap: 15px; 
+}
+
+.guestusercolor{
+    background: #E9A0A0;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.usercolor {
+    background: #9BDD7C;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.chartsDiv{
+    width: 100%;
+    height: 35vh;
+    margin: 20px 0px
+}
+
+.circlechartmainDiv{
+    background: #FFFFFF;
+    border-radius: 20px;
+    min-height: 37vh;
+    padding: 40px;
+    margin: 10px 0px;
+    width: 100%;
+}
+
+.topsecDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topsecDiv b{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+    
+.topsecDiv span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #858585;
+}
+
+
+.circlechartDiv{
+    display: flex;
+    align-items: center;
+    gap: 25px; 
+    margin-top: 15px;
+}
+
+.cir_chartDiv{
+    width: 100%;
+    height: 24vh;
+}
+
+.cir_charttype{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+}
+
+.typescolrDiv{
+    display: flex;
+    align-items: start;
+    margin-bottom: 12px;
+    gap: 15px;
+}
+
+.colorsdiv{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.colortextsec{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.colortextsec b {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.colortextsec span {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #858585;
+    margin-top: 5px;
+}
+

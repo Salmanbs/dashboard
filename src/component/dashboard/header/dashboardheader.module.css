@@ -1,0 +1,57 @@
+.Dashboardheader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70vw;
+ }
+ 
+ 
+ 
+ .Dashboard{
+ font-style: normal;
+ font-weight: 700;
+ font-size: 24px;
+ line-height: 29px;
+ 
+ color: #000000;
+ }
+ 
+ .Dashboardheader{
+     display: flex;
+     
+ }
+ .Dashboardside{
+     list-style-type: none;
+     display: flex;
+     align-items: center;
+         
+ }
+ 
+ .Dashboardside li{
+     margin: 0px 8px;
+ }
+ 
+ .searchboxDiv{
+     display: flex;
+     align-items: center;
+     background: #FFFFFF;
+     border-radius: 10px;
+     padding: 0px 12px;
+ }
+ 
+ .searchboxDiv input {
+     border: none;
+     height: 35px;
+     border-radius: 8px;
+     padding: 0px 10px;
+     font-style: normal;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 17px;
+     color: #B0B0B0;
+ }
+ .Dashboardimage{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+ }

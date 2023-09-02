@@ -1,0 +1,62 @@
+.loginformDiv{
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 30px;   
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 30vw;
+    min-height: 300px;
+}
+
+.FeildsDivs{
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+}
+
+.FeildsDivs label {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.FeildsDivs input {
+    background: #F5F5F5;
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+    height: 40px;
+    padding: 0px 10px;
+    margin: 6px 0px 0px 0px;
+}
+
+
+.forgetpassword{
+    /* font-family: 'Lato'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #346BD5;
+    margin: 10px 0px;
+    }
+.signinbtn{
+    background: #000000;
+    border-radius: 10px;
+    width: 100%;
+    height: 40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 20px;
+    cursor: pointer;
+}

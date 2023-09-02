@@ -1,0 +1,35 @@
+.DashboardDiv{
+    padding: 2%;
+    background-color: #F8FAFF;
+    width: 100%;
+    display: flex;
+    gap: 50px;
+}
+
+
+.SidebarSectn{
+    position: fixed;
+    top: 0;
+    z-index: 100;
+}
+
+.cardssecDiv{
+    display: flex;
+    justify-content: space-between;
+    gap: 17px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.btmsecDiv{
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    width: 100%;
+}
+
+
+.rigthSecDiv{
+  margin-left: 24vw;
+  width: 70vw;
+}
